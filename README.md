@@ -1,3 +1,5 @@
+> This project has been forked "in case of" but is not actively used. The origin repo seems unmaintained.
+
 # ⚡️ Serverless Sentry Plugin
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
